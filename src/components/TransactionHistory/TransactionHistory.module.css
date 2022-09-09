@@ -1,0 +1,21 @@
+.transactionHistory {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  background-color: aqua;
+  text-transform: uppercase;
+  color: aliceblue;
+  font-weight: 700;
+}
+
+.item {
+  width: 200px;
+  height: 50px;
+  text-align: center;
+}
